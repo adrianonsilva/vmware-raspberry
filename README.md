@@ -39,7 +39,7 @@ ex: VirtuaBox, VMware Workstation, Windows Virtual PC
 
 Essa instalação é baseada na apresentada pelo canal NetworkChuck (links no final).
 
-Itens ncessário
+Itens necessários:
 
 - Cartão de memória
 - Raspberry PI 4 (4GB ou 8GB)
@@ -62,39 +62,48 @@ Itens ncessário
 
 	![Screenshot](/images/vm07.jpg)
 	
+	sudo rpi-eeprom-update</br>
+	sudo rpi-eeprom-update -a
+	
 	![Screenshot](/images/vm08.jpg)
 
+	- Realizar erase do cartão
 
+	![Screenshot](/images/vm09.jpg)
 	
+	- Baixar Raspberry Pi Firmware
+	
+	Latest Raspberry Pi Firmware: https://bit.ly/2HpIaG6</br>
+	UEFI Raspberry Pi Firmware: https://bit.ly/3jota8D
 
-sudo rpi-eeprom-update
-sudo rpi-eeprom-update -a
+extrair conteúdo dos 2 arquivos
 
-sudo rebbot
+copiar 
 
-3) Realizar erase do cartão
-
-realizar download
-
-Latest Raspberry Pi Firmware: https://bit.ly/2HpIaG6
-UEFI Raspberry Pi Firmware: https://bit.ly/3jota8D
-
-extrair conteúdo
-
-copy C:\Users\user\Downloads\rasp_firm\firmware-master\firmware-master\boot\*.*
+C:\Users\user\Downloads\rasp_firm\firmware-master\firmware-master\boot\*.*
 
 para a raiz do cartão sd
 
 delete os 4 arquivos kernel
 
-copy C:\Users\user\Downloads\rasp_firm\RPi4_UEFI_Firmware_v1.20\*.*
+copiar C:\Users\user\Downloads\rasp_firm\RPi4_UEFI_Firmware_v1.20\*.*
 
 para a raiz do cartão sd (with replace)
 
 No cartão edite arquivo config.txt
 acrescente no final dele: gpu_mem=16
 
-salve o arquivo, remova cartão
+Salve o arquivo, remova cartão
+
+	![Screenshot](/images/vm10.jpg)
+
+	![Screenshot](/images/vm11.jpg)
+	
+	![Screenshot](/images/vm12.jpg)
+
+
+	
+	
 
 4) Install do ESXi versão Arm
 
