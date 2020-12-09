@@ -49,6 +49,11 @@ Itens ncessário
 	
 	![Screenshot](/images/vm03.jpg)
 
+	![Screenshot](/images/vm04.jpg)
+	
+	![Screenshot](/images/vm05.jpg)
+	
+	
 2) Realizar update da eeprom
 
 Login: pi
