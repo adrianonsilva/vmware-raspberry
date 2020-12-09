@@ -217,6 +217,16 @@ Itens necessários:
 	Habilite o SSH para podemos acessar via terminal
 
 	![Screenshot](/images/vm53.jpg)			
+
+	![Screenshot](/images/vm54.jpg)	
+
+- Via console SSH
+
+	![Screenshot](/images/vm55.jpg)	
+	
+	![Screenshot](/images/vm56.jpg)	
+	
+	
 =======================
 
 Login
@@ -224,8 +234,7 @@ Login
 Habillitar o ssh
 
 
-/etc/init.d/usbarbitrator stop
-chkconfig usbarbitrator off
+
 
 https://ubuntu.com/download/server/arm
 https://www.vmware.com/
