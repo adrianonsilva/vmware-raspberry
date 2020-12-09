@@ -56,7 +56,7 @@ Itens ncessário
 	- Logar e atualizar a eeprom
 
 Login: pi</br>
-Password: raspberry</br>
+Password: raspberry
 	
 	![Screenshot](/images/vm06.jpg)
 
