@@ -174,9 +174,9 @@ Itens necessários:
 
 	![Screenshot](/images/vm32.jpg)
 
-	![Screenshot](/images/vm33.jpg)		
+	![Screenshot](/images/vm33.jpg)
 	
-	![Screenshot](/images/vm34.jpg)		
+	![Screenshot](/images/vm34.jpg)
 
 	Após instação completa, mais uma vez entre na tela de configuração para dar boot pelo Pen Drive e não pelo cartão
 	
@@ -194,11 +194,11 @@ Itens necessários:
 
 	![Screenshot](/images/vm41.jpg)
 
-	![Screenshot](/images/vm42.jpg)		
+	![Screenshot](/images/vm42.jpg)
 	
-	![Screenshot](/images/vm43.jpg)			
+	![Screenshot](/images/vm43.jpg)	
 
-	![Screenshot](/images/vm44.jpg)				
+	![Screenshot](/images/vm44.jpg)		
 	
 <a id="link4"></a>
 ## 4. Administração	
@@ -207,17 +207,17 @@ Itens necessários:
 
 	Acesse o browser e digite o IP do servidor, em seguida entre com usuário root e senha definida na instalação.
 
-	![Screenshot](/images/vm50.jpg)		
+	![Screenshot](/images/vm50.jpg)
 	
-	![Screenshot](/images/vm51.jpg)			
+	![Screenshot](/images/vm51.jpg)	
 
-	![Screenshot](/images/vm52.jpg)		
+	![Screenshot](/images/vm52.jpg)
 	
 - Via terminal	
 
 	Habilite o SSH para podemos acessar via terminal
 
-	![Screenshot](/images/vm53.jpg)			
+	![Screenshot](/images/vm53.jpg)	
 
 	![Screenshot](/images/vm54.jpg)	
 
@@ -261,7 +261,7 @@ Antes de criar as VMs, executar 2 etapas
 
 	![Screenshot](/images/vm61.jpg)	
 	
-	![Screenshot](/images/vm62.jpg)		
+	![Screenshot](/images/vm62.jpg)
 
 	![Screenshot](/images/vm63.jpg)	
 
@@ -269,13 +269,13 @@ Antes de criar as VMs, executar 2 etapas
 	
 	Nesse ponto, vamos clicar em Upload para subir o arquivo ISO que baixamos para ser usado pela VM	
 	
-	![Screenshot](/images/vm65.jpg)		
+	![Screenshot](/images/vm65.jpg)
 
 	![Screenshot](/images/vm66.jpg)	
 
 	![Screenshot](/images/vm67.jpg)	
 	
-	![Screenshot](/images/vm68.jpg)		
+	![Screenshot](/images/vm68.jpg)
 
 	![Screenshot](/images/vm69.jpg)	
 
@@ -283,17 +283,36 @@ Antes de criar as VMs, executar 2 etapas
 
 	Clique no play ou em Power on, para iniciar a VM, como apontamos o arquivo ISO, será dado início na instalação do Ubuntu na VM.
 	
-	Vamo srealizar a instalação básica, definindo dhcp e ssh abilitado, para poderior conexão via PuTTY
+	Vamo srealizar a instalação básica, definindo dhcp e ssh abilitado, para poderior conexão.
 	
-	![Screenshot](/images/vm70.jpg)		
+	![Screenshot](/images/vm70.jpg)
 
 	![Screenshot](/images/vm71.jpg)	
 
 	![Screenshot](/images/vm72.jpg)	
 	
-	![Screenshot](/images/vm73.jpg)		
+	![Screenshot](/images/vm73.jpg)
 
 
+- Conectando na VMs (via PuTTY)
+
+	![Screenshot](/images/vm74.jpg)
+
+- Vamos repetir os passos acima e criar masi 2 VMs, paraver como o servidor se comporta
+
+	![Screenshot](/images/vm75.jpg)
+
+	Temos 89% da memória do host utilizada
+	
+	![Screenshot](/images/vm76.jpg)	
+
+	Executando ping nas 3 VMs
+	
+	![Screenshot](/images/vm77.jpg)
+
+	Conectando nas VMs e executando a instalção de pacotes
+	
+	![Screenshot](/images/vm78.jpg)
 
 
 
