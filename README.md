@@ -53,11 +53,19 @@ Itens ncessário
 	
 	![Screenshot](/images/vm05.jpg)
 	
-	
-2) Realizar update da eeprom
+	- Logar e atualizar a eeprom
 
-Login: pi
-Password: raspberry
+Login: pi</br>
+Password: raspberry</br>
+	
+	![Screenshot](/images/vm06.jpg)
+
+	![Screenshot](/images/vm07.jpg)
+	
+	![Screenshot](/images/vm08.jpg)
+
+
+	
 
 sudo rpi-eeprom-update
 sudo rpi-eeprom-update -a
