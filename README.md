@@ -153,6 +153,10 @@ Itens necessários:
 	![Screenshot](/images/vm25.jpg)	
 	
 	Iniciando a instalação
+	
+	Configure senha de root
+	
+	Configure as configurações de rede, nesse exemplo, vamos deixar IP via DHCP
 
 	![Screenshot](/images/vm26.jpg)
 
@@ -172,6 +176,30 @@ Itens necessários:
 	
 	![Screenshot](/images/vm34.jpg)		
 
+	Após instação completa, mais uam vez entre na tela de configuração para dar boot pelo Pen Drive e não pelo cartão
+	
+	![Screenshot](/images/vm35.jpg)
+
+	![Screenshot](/images/vm36.jpg)
+
+	![Screenshot](/images/vm37.jpg)
+
+	![Screenshot](/images/vm38.jpg)
+
+	![Screenshot](/images/vm39.jpg)
+
+	![Screenshot](/images/vm40.jpg)	
+
+	![Screenshot](/images/vm41.jpg)
+
+	![Screenshot](/images/vm42.jpg)		
+	
+	![Screenshot](/images/vm43.jpg)			
+
+	![Screenshot](/images/vm44.jpg)				
+	
+	
+	
 =======================
 
 Login
