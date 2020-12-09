@@ -4,7 +4,7 @@
 - [2. Objetivos](#link2)
 - [3. Instalação](#link3)
 - [4. Administração](#link4)
-- [5. Máquins Virtuais](#link5)
+- [5. Máquinas Virtuais](#link5)
 
 <a id="link1"></a>
 ## 1. Descrição
@@ -229,7 +229,7 @@ Itens necessários:
 	
 	
 <a id="link5"></a>
-## 5. Máquins Virtuais
+## 5. Máquinas Virtuais
 
 Agora que o servidor está pronto e funcionando, podemos criar as máquinas virtuais.
 
@@ -250,7 +250,7 @@ Antes de criar as VMs, executar 2 etapas
 
 - Baixar imagens ISO dos sistemas que iremos instalar. no nosso exemplo será uma imagem do Ubuntu 20 para a arquitetura ARM.
 
-Vamos baixar para o computador local onde o abrimos o browser e depois faremos o upload para o ESXi
+	Vamos baixar para o computador local onde o abrimos o browser e depois faremos o upload para o ESXi
 
 	![Screenshot](/images/vm59.jpg)	
 
