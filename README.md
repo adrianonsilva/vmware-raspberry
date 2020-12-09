@@ -353,8 +353,8 @@ Segue 2 exemplos:
 Baixar o ISO do Ubuntu
 https://ubuntu.com/download/server/arm
 
-Vmware.com
-https://www.vmware.com/
+Baixar o Esxi
+https://flings.vmware.com/esxi-arm-edition
 
 NetworkChuck
 https://www.youtube.com/watch?v=6aLyZisehCU
@@ -368,6 +368,10 @@ https://www.nakivo.com/blog/most-useful-esxcli-esxi-shell-commands-vmware-enviro
 <a id="link8"></a>
 ## 8. Hardware
 
+- Cartão sd
+- Pen drive
+- Raspberry PI 4
+- HD Externo
 
 ![Screenshot](/images/vm82.jpg)	
 
