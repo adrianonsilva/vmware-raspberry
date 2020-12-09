@@ -5,6 +5,8 @@
 - [3. Instalação](#link3)
 - [4. Administração](#link4)
 - [5. Máquinas Virtuais](#link5)
+- [6. Linha de comando](#link6)
+- [7. Links](#link7)
 
 <a id="link1"></a>
 ## 1. Descrição
@@ -310,14 +312,44 @@ Antes de criar as VMs, executar 2 etapas
 	
 	![Screenshot](/images/vm77.jpg)
 
-	Conectando nas VMs e executando a instalção de pacotes
+	Conectando nas VMs e executando a instalação de pacotes
 	
 	![Screenshot](/images/vm78.jpg)
 
+<a id="link6"></a>
+## 6. Linha de comando
+
+Alem da interface web, é possível via terminal executar comandos
+
+Segue 2 exemplos:
+
+- Verificar memórias
+
+	execute:</br>
+	which esxcli</br>
+	em seguida:</br>
+	esxcli hardware memory get
+	
+	![Screenshot](/images/vm79.jpg)
+	
+
+- Visualizar as VMs que estão rodando
+	execute:</br>
+	esxcli vm process list
+	
+	![Screenshot](/images/vm80.jpg)	
 
 
+
+
+
+<a id="link7"></a>
+## 7. Links
 
 
 https://ubuntu.com/download/server/arm
 https://www.vmware.com/
 https://www.youtube.com/watch?v=6aLyZisehCU
+
+MongoDB Compass
+https://www.mongodb.com/try/download/compass
