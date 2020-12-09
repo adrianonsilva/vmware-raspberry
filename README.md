@@ -7,6 +7,7 @@
 - [5. Máquinas Virtuais](#link5)
 - [6. Linha de comando](#link6)
 - [7. Links](#link7)
+- [8. Hardware](#link8)
 
 <a id="link1"></a>
 ## 1. Descrição
@@ -339,6 +340,12 @@ Segue 2 exemplos:
 	
 	![Screenshot](/images/vm80.jpg)	
 
+- Visualizar configurações de rede
+	execute:</br>
+	esxcli network ip interface ipv4 get
+	
+	![Screenshot](/images/vm81.jpg)	
+	
 
 <a id="link7"></a>
 ## 7. Links
@@ -357,3 +364,9 @@ https://www.altaro.com/vmware/top-20-esxcli-commands/
 
 Comandos ESXi
 https://www.nakivo.com/blog/most-useful-esxcli-esxi-shell-commands-vmware-environment/
+
+<a id="link8"></a>
+## 8. Hardware
+
+	![Screenshot](/images/vm82.jpg)	
+
