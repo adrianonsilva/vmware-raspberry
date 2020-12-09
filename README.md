@@ -146,13 +146,31 @@ Itens necessários:
 
 	![Screenshot](/images/vm23.jpg)	
 	
-	Selecione para dar boot pelo pen drivers
+	Selecione para dar boot pelo pen driver
 	
 	![Screenshot](/images/vm24.jpg)
 
 	![Screenshot](/images/vm25.jpg)	
 	
+	Iniciando a instalação
 
+	![Screenshot](/images/vm26.jpg)
+
+	![Screenshot](/images/vm27.jpg)
+
+	![Screenshot](/images/vm28.jpg)
+
+	![Screenshot](/images/vm29.jpg)
+
+	![Screenshot](/images/vm30.jpg)
+
+	![Screenshot](/images/vm31.jpg)	
+
+	![Screenshot](/images/vm32.jpg)
+
+	![Screenshot](/images/vm33.jpg)		
+	
+	![Screenshot](/images/vm34.jpg)		
 
 =======================
 
