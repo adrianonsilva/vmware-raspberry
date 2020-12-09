@@ -120,7 +120,7 @@ Itens necessários:
 
 	Selecione o arquivo ISO, e em tamanho do cluster = 32 quilobytes
 
-	clique em iniciar, apoós terminar, insira o cartão SD no raspberry e o pendrive
+	clique em iniciar, após terminar, insira o cartão SD no raspberry e o pendrive
 	
 	![Screenshot](/images/vm15.jpg)	
 	
@@ -145,6 +145,13 @@ Itens necessários:
 	![Screenshot](/images/vm22.jpg)
 
 	![Screenshot](/images/vm23.jpg)	
+	
+	Selecione para dar boot pelo pen drivers
+	
+	![Screenshot](/images/vm24.jpg)
+
+	![Screenshot](/images/vm25.jpg)	
+	
 
 
 =======================
