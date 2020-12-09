@@ -267,6 +267,8 @@ Antes de criar as VMs, executar 2 etapas
 
 	![Screenshot](/images/vm64.jpg)	
 	
+	Nesse ponto, vamos clicar em Upload para subir o arquivo ISO que baixamos para ser usado pela VM	
+	
 	![Screenshot](/images/vm65.jpg)		
 
 	![Screenshot](/images/vm66.jpg)	
@@ -277,8 +279,19 @@ Antes de criar as VMs, executar 2 etapas
 
 	![Screenshot](/images/vm69.jpg)	
 
+- Iniciar a VM
 
+	Clique no play ou em Power on, para iniciar a VM, como apontamos o arquivo ISO, será dado início na instalação do Ubuntu na VM.
+	
+	Vamo srealizar a instalação básica, definindo dhcp e ssh abilitado, para poderior conexão via PuTTY
+	
+	![Screenshot](/images/vm70.jpg)		
 
+	![Screenshot](/images/vm71.jpg)	
+
+	![Screenshot](/images/vm72.jpg)	
+	
+	![Screenshot](/images/vm73.jpg)		
 
 
 
