@@ -248,12 +248,16 @@ Antes de criar as VMs, executar 2 etapas
 	![Screenshot](/images/vm58.jpg)	
 
 
+- Baixar imagens ISO dos sistemas que iremos instalar. no nosso exemplo será uma imagem do Ubuntu 20 para a arquitetura ARM.
+
+Vamos baixar para o computador local onde o abrimos o browser e depois faremos o upload para o ESXi
+
+	![Screenshot](/images/vm59.jpg)	
 
 
 
 
- para disco vamos colocar um HD externo, para não</br>
-gastar todo o espaço do pen drive onde o ESXi está isntalado.
+
 
 
 
