@@ -1,4 +1,4 @@
-# Vmware on Paspberry PI 4
+# Vmware on Raspberry PI 4
 
 - [1. Descrição](#link1)
 - [2. Objetivos](#link2)
@@ -11,10 +11,10 @@ A virtualização é o processo de criar apartir de software uma simulação ou 
 físico, por exemplo (servidores, armazenamento, rede, etc).
 
 Imagine 3 servidores que rodem em cada um, uma aplicação. Só que cada um está usando 30% da capacidade disponível.</br>
-Atraves da virtualização podemos em um novo servidor criar versões virtuais dos antigos servidores e rodar as 3 aplicações</br>
+Atraves da virtualização podemos em um novo servidor criar versões virtuais dos antigos servidores e rodar as 3 aplicações
 aproveitando melhor os recursos e reutilizar os antigos hardwares para outras aplicações.
 
-Cada servidor virtual é chamado de virtual machine e possuie as mesmas caracteristicas das máquinas físicas (Sistema operacional,
+Cada servidor virtual é chamado de virtual machine e tem as mesmas caracteristicas das máquinas físicas (Sistema operacional,
 memória, disco, rede, etc)
 
 Existem vários softwares disponíveis no mercado, disponíveis para rodar em máquinas cliente ou em um servidor.
@@ -37,9 +37,17 @@ ex: VirtuaBox, VMware Workstation, Windows Virtual PC
 <a id="link3"></a>
 ## 3. Instalação
 
+Essa instalação é baseada na apresentada pelo canal NetworkChuck (links no final).
 
+Itens ncessário
 
-1) Instalar o raspian lite usando o instalador oficial Raspberry
+- Cartão de memória
+- Raspberry PI 4 (4GB ou 8GB)
+- 2 pen drivers
+
+	- Instalar o raspian lite usando o instalador oficial Raspberry
+	
+	![Screenshot](/images/vm03.jpg)
 
 2) Realizar update da eeprom
 
@@ -99,16 +107,9 @@ Login
 Habillitar o ssh
 
 
-
 /etc/init.d/usbarbitrator stop
 chkconfig usbarbitrator off
 
 https://ubuntu.com/download/server/arm
-
-
-
-
 https://www.vmware.com/
-
-
-
+https://www.youtube.com/watch?v=6aLyZisehCU
