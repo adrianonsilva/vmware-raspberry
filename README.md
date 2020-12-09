@@ -3,6 +3,7 @@
 - [1. Descrição](#link1)
 - [2. Objetivos](#link2)
 - [3. Instalação](#link3)
+- [4. Administração](#link4)
 
 <a id="link1"></a>
 ## 1. Descrição
@@ -176,7 +177,7 @@ Itens necessários:
 	
 	![Screenshot](/images/vm34.jpg)		
 
-	Após instação completa, mais uam vez entre na tela de configuração para dar boot pelo Pen Drive e não pelo cartão
+	Após instação completa, mais uma vez entre na tela de configuração para dar boot pelo Pen Drive e não pelo cartão
 	
 	![Screenshot](/images/vm35.jpg)
 
@@ -198,7 +199,15 @@ Itens necessários:
 
 	![Screenshot](/images/vm44.jpg)				
 	
-	
+<a id="link4"></a>
+## 4. Administração	
+
+- Via browser
+
+Acesse o browser e digite o IP do servidor, em seguida entre com usuário root e senha definida na instalação.
+
+
+
 	
 =======================
 
