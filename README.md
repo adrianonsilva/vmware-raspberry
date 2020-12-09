@@ -76,24 +76,24 @@ Itens necessários:
 	Latest Raspberry Pi Firmware: https://bit.ly/2HpIaG6</br>
 	UEFI Raspberry Pi Firmware: https://bit.ly/3jota8D
 
-extrair conteúdo dos 2 arquivos
+	extrair conteúdo dos 2 arquivos
 
-copiar 
+	copiar</br>
+	C:\Users\user\Downloads\rasp_firm\firmware-master\firmware-master\boot\*.*
 
-C:\Users\user\Downloads\rasp_firm\firmware-master\firmware-master\boot\*.*
+	para a raiz do cartão sd
 
-para a raiz do cartão sd
+	delete os 4 arquivos kernel
 
-delete os 4 arquivos kernel
+	copiar</br>
+	C:\Users\user\Downloads\rasp_firm\RPi4_UEFI_Firmware_v1.20\*.*
 
-copiar C:\Users\user\Downloads\rasp_firm\RPi4_UEFI_Firmware_v1.20\*.*
+	para a raiz do cartão sd (with replace)
 
-para a raiz do cartão sd (with replace)
+	No cartão edite arquivo config.txt
+	acrescente no final dele: gpu_mem=16
 
-No cartão edite arquivo config.txt
-acrescente no final dele: gpu_mem=16
-
-Salve o arquivo, remova cartão
+	Salve o arquivo, remova o cartão
 
 
 	![Screenshot](/images/vm10.jpg)
