@@ -102,31 +102,50 @@ Itens necessários:
 	![Screenshot](/images/vm12.jpg)
 
 
-	- Install do ESXi versão Arm
+	- Preparar ESXi versão Arm para instalação
 	
 	Baixar o arquivo ISO</br>
 	VMWare Installer ISO: https://bit.ly/2J0bSCn
 
-	Caso não tenha, crie sua conta, realize download do arquivo iso
+	Caso não tenha, crie sua conta e realize download do arquivo iso
 
 	ex: VMware-VMvisor-Installer-7.0.0-17230755.aarch64.iso
 
-	Gravar isso em um pendrive usando o Rufos (windows)
+	
+	![Screenshot](/images/vm13.jpg)
+
+	![Screenshot](/images/vm14.jpg)
+
+	Gravar o ISO em um pendrive usando o Rufos (windows)
 
 	Selecione o arquivo ISO, e em tamanho do cluster = 32 quilobytes
 
 	clique em iniciar, apoós terminar, insira o cartão SD no raspberry e o pendrive
 	
-	![Screenshot](/images/vm13.jpg)
-
-	![Screenshot](/images/vm14.jpg)
-	
 	![Screenshot](/images/vm15.jpg)	
 	
+	- Instando o ESXi
 	
+	Ligue o raspberry e no teclado clique ESC até entrar na tela de configuração
 	
+	Desabilite o limite de 3GB de RAM
+	
+	![Screenshot](/images/vm16.jpg)
 
-	Ligue o raspberry e no teclado clique ESC até entrar no 
+	![Screenshot](/images/vm17.jpg)
+
+	![Screenshot](/images/vm18.jpg)
+
+	![Screenshot](/images/vm19.jpg)
+
+	![Screenshot](/images/vm20.jpg)
+
+	![Screenshot](/images/vm21.jpg)	
+
+	![Screenshot](/images/vm22.jpg)
+
+	![Screenshot](/images/vm23.jpg)	
+
 
 =======================
 
