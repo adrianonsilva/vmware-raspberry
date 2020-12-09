@@ -368,5 +368,6 @@ https://www.nakivo.com/blog/most-useful-esxcli-esxi-shell-commands-vmware-enviro
 <a id="link8"></a>
 ## 8. Hardware
 
-	![Screenshot](/images/vm82.jpg)	
+
+![Screenshot](/images/vm82.jpg)	
 
