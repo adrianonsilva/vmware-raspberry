@@ -254,9 +254,28 @@ Antes de criar as VMs, executar 2 etapas
 
 	![Screenshot](/images/vm59.jpg)	
 
+- Criar a VM
 
 
+	![Screenshot](/images/vm60.jpg)	
 
+	![Screenshot](/images/vm61.jpg)	
+	
+	![Screenshot](/images/vm62.jpg)		
+
+	![Screenshot](/images/vm63.jpg)	
+
+	![Screenshot](/images/vm64.jpg)	
+	
+	![Screenshot](/images/vm65.jpg)		
+
+	![Screenshot](/images/vm66.jpg)	
+
+	![Screenshot](/images/vm67.jpg)	
+	
+	![Screenshot](/images/vm68.jpg)		
+
+	![Screenshot](/images/vm69.jpg)	
 
 
 
