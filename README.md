@@ -95,7 +95,6 @@ Itens necessários:
 
 	Salve o arquivo, remova o cartão
 
-
 	![Screenshot](/images/vm10.jpg)
 
 	![Screenshot](/images/vm11.jpg)
@@ -103,25 +102,31 @@ Itens necessários:
 	![Screenshot](/images/vm12.jpg)
 
 
+	- Install do ESXi versão Arm
+	
+	Baixar o arquivo ISO</br>
+	VMWare Installer ISO: https://bit.ly/2J0bSCn
+
+	Caso não tenha, crie sua conta, realize download do arquivo iso
+
+	ex: VMware-VMvisor-Installer-7.0.0-17230755.aarch64.iso
+
+	Gravar isso em um pendrive usando o Rufos (windows)
+
+	Selecione o arquivo ISO, e em tamanho do cluster = 32 quilobytes
+
+	clique em iniciar, apoós terminar, insira o cartão SD no raspberry e o pendrive
+	
+	![Screenshot](/images/vm13.jpg)
+
+	![Screenshot](/images/vm14.jpg)
+	
+	![Screenshot](/images/vm15.jpg)	
 	
 	
+	
 
-4) Install do ESXi versão Arm
-
-Download 
-VMWare Installer ISO: https://bit.ly/2J0bSCn
-
-Caso não tenha, crie sua conta, realize download do arquivo iso
-
-ex: VMware-VMvisor-Installer-7.0.0-17230755.aarch64.iso
-
-Vamos gravar esse iso em um pendrive usando o Rufos (windows)
-
-Selecione o arquivo ISO, e em tamanho do cluster = 32 quilobytes
-
-clique em iniciar, apoós terminar, insira p cartão SD no raspberry e o pendrive
-
-Ligue o raspberry e mo teclado clique ESC
+	Ligue o raspberry e no teclado clique ESC até entrar no 
 
 =======================
 
