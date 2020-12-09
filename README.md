@@ -4,6 +4,7 @@
 - [2. Objetivos](#link2)
 - [3. Instalação](#link3)
 - [4. Administração](#link4)
+- [5. Máquins Virtuais](#link5)
 
 <a id="link1"></a>
 ## 1. Descrição
@@ -220,18 +221,44 @@ Itens necessários:
 
 	![Screenshot](/images/vm54.jpg)	
 
-- Via console SSH
+- Via console SSH no browser
 
 	![Screenshot](/images/vm55.jpg)	
 	
 	![Screenshot](/images/vm56.jpg)	
 	
 	
-=======================
+<a id="link5"></a>
+## 5. Máquins Virtuais
 
-Login
+Agora que o servidor está pronto e funcionando, podemos criar as máquinas virtuais.
 
-Habillitar o ssh
+Computadores dentro do nosso computador principal (host).
+
+Os recursos da máquina serão compartilhados entre o sistema host (VMware ESXi) e as máquinas virtuais.
+
+Dessa forma, cada VM usará parte da memória, processsador, disco, rede
+
+Antes de criar as VMs, executar 2 etapas
+
+- Adicionar um HD externo, que fará o papel da storage, onde serão salvos os discos das VMs
+
+	![Screenshot](/images/vm57.jpg)	
+
+	![Screenshot](/images/vm58.jpg)	
+
+
+
+
+
+
+ para disco vamos colocar um HD externo, para não</br>
+gastar todo o espaço do pen drive onde o ESXi está isntalado.
+
+
+
+
+
 
 
 
