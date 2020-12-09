@@ -204,15 +204,17 @@ Itens necessários:
 
 - Via browser
 
-Acesse o browser e digite o IP do servidor, em seguida entre com usuário root e senha definida na instalação.
+	Acesse o browser e digite o IP do servidor, em seguida entre com usuário root e senha definida na instalação.
 
 	![Screenshot](/images/vm50.jpg)		
 	
 	![Screenshot](/images/vm51.jpg)			
 
 	![Screenshot](/images/vm52.jpg)		
+	
+- Via terminal	
 
-Habilite o SSH para podemos acessar via terminal
+	Habilite o SSH para podemos acessar via terminal
 
 	![Screenshot](/images/vm53.jpg)			
 =======================
