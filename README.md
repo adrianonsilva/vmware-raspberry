@@ -95,6 +95,7 @@ acrescente no final dele: gpu_mem=16
 
 Salve o arquivo, remova cartão
 
+
 	![Screenshot](/images/vm10.jpg)
 
 	![Screenshot](/images/vm11.jpg)
