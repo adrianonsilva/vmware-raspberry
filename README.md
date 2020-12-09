@@ -323,7 +323,7 @@ Alem da interface web, é possível via terminal executar comandos
 
 Segue 2 exemplos:
 
-- Verificar memórias
+- Verificar memória
 
 	execute:</br>
 	which esxcli</br>
@@ -340,16 +340,20 @@ Segue 2 exemplos:
 	![Screenshot](/images/vm80.jpg)	
 
 
-
-
-
 <a id="link7"></a>
 ## 7. Links
 
-
+Baixar o ISO do Ubuntu
 https://ubuntu.com/download/server/arm
+
+Vmware.com
 https://www.vmware.com/
+
+NetworkChuck
 https://www.youtube.com/watch?v=6aLyZisehCU
 
-MongoDB Compass
-https://www.mongodb.com/try/download/compass
+Comandos ESXi
+https://www.altaro.com/vmware/top-20-esxcli-commands/
+
+Comandos ESXi
+https://www.nakivo.com/blog/most-useful-esxcli-esxi-shell-commands-vmware-environment/
