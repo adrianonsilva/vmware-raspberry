@@ -1,4 +1,43 @@
-# Vmware on raspberry pi
+# Vmware on Paspberry PI 4
+
+- [1. Descrição](#link1)
+- [2. Objetivos](#link2)
+- [3. Instalação](#link3)
+
+<a id="link1"></a>
+## 1. Descrição
+
+A virtualização é o processo de criar apartir de software uma simulação ou versão virtual de algo que até então era apenas 
+físico, por exemplo (servidores, armazenamento, rede, etc).
+
+Imagine 3 servidores que rodem em cada um, uma aplicação. Só que cada um está usando 30% da capacidade disponível.</br>
+Atraves da virtualização podemos em um novo servidor criar versões virtuais dos antigos servidores e rodar as 3 aplicações</br>
+aproveitando melhor os recursos e reutilizar os antigos hardwares para outras aplicações.
+
+Cada servidor virtual é chamado de virtual machine e possuie as mesmas caracteristicas das máquinas físicas (Sistema operacional,
+memória, disco, rede, etc)
+
+Existem vários softwares disponíveis no mercado, disponíveis para rodar em máquinas cliente ou em um servidor.
+
+Para a demostração a seguir será utilizado o VMware ESXi, rodando diretamente no hardware do servidor sem 
+exigir um sistema operacional.
+
+Existem versões desktop que são executados em máquinas que rodam Microsoft Windows, Linux e macOS
+
+ex: VirtuaBox, VMware Workstation, Windows Virtual PC
+
+<a id="link2"></a>
+## 2. Objetivos
+
+- Instalar o VMware ESXi em um raspberry pi4 com 4GB de ram (8GB recomendado)
+- Utilizar a interface de administração
+- Criar máquins virtuais
+- Executar comandos básicos
+
+<a id="link3"></a>
+## 3. Instalação
+
+
 
 1) Instalar o raspian lite usando o instalador oficial Raspberry
 
@@ -69,6 +108,7 @@ https://ubuntu.com/download/server/arm
 
 
 
+https://www.vmware.com/
 
 
 
