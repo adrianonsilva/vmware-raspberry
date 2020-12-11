@@ -161,7 +161,7 @@ Itens necessários:
 	
 	Configure senha de root
 	
-	Configure as configurações de rede, nesse exemplo, vamos deixar IP via DHCP
+	Configurações de rede, nesse exemplo, vamos deixar IP via DHCP.
 
 	![Screenshot](/images/vm26.jpg)
 
@@ -286,7 +286,7 @@ Antes de criar as VMs, executar 2 etapas
 
 	Clique no play ou em Power on, para iniciar a VM, como apontamos o arquivo ISO, será dado início na instalação do Ubuntu na VM.
 	
-	Vamo srealizar a instalação básica, definindo dhcp e ssh abilitado, para poderior conexão.
+	A instalação básica será básica, abilitadondo DHCP e SSH, para poderior conexão.
 	
 	![Screenshot](/images/vm70.jpg)
 
